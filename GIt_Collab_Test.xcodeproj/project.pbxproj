@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		05217B612A2066F200DFFBC7 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05217B602A2066F200DFFBC7 /* DetailView.swift */; };
 		74045A6E2A20619E00F35518 /* GIt_Collab_TestApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74045A6D2A20619E00F35518 /* GIt_Collab_TestApp.swift */; };
 		74045A702A20619E00F35518 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74045A6F2A20619E00F35518 /* ContentView.swift */; };
 		74045A722A20619F00F35518 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 74045A712A20619F00F35518 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		05217B602A2066F200DFFBC7 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 		74045A6A2A20619E00F35518 /* GIt_Collab_Test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GIt_Collab_Test.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		74045A6D2A20619E00F35518 /* GIt_Collab_TestApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GIt_Collab_TestApp.swift; sourceTree = "<group>"; };
 		74045A6F2A20619E00F35518 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				74045A6D2A20619E00F35518 /* GIt_Collab_TestApp.swift */,
 				74045A6F2A20619E00F35518 /* ContentView.swift */,
+				05217B602A2066F200DFFBC7 /* DetailView.swift */,
 				74045A712A20619F00F35518 /* Assets.xcassets */,
 				74045A732A20619F00F35518 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				74045A702A20619E00F35518 /* ContentView.swift in Sources */,
+				05217B612A2066F200DFFBC7 /* DetailView.swift in Sources */,
 				74045A6E2A20619E00F35518 /* GIt_Collab_TestApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
